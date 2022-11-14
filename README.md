@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **VPN**
 
-- 🌱 I’m currently learning **Cybersecurity, AI**
+- 🌱 I’m currently learning **Cybersecurity, AI, Web3.0**
 
-- 👯 I’m looking to collaborate on **Antivirus**
+- 👯 I’m looking to collaborate on **Antivirus, Criptocurreny, Web3 Roadmap**
 
 - 👨‍💻 All of my projects are available at [https://senzofortunportfolio.netlify.app/](https://senzofortunportfolio.netlify.app/)
 
